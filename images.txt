@@ -1,7 +1,7 @@
-docker.io/vllm/vllm-openai:v0.19.1-x86_64
-ghcr.io/llm-d/llm-d-inference-scheduler:v0.8.0
-docker.io/envoyproxy/envoy:distroless-v1.33.2
-ghcr.io/llm-d/llm-d-routing-sidecar:v0.8.0
-ghcr.io/llm-d/llm-d-uds-tokenizer:vllm-v0.19.1
-ghcr.io/llm-d/llm-d-benchmark:v0.5.2
-ghcr.io/llm-d/llm-d-cuda:v0.6.0
+vllm-openai:v0.21.0-aibrix-v0.7.0-nixl0.7.1
+aibrix-gateway-plugins:v0.7.0
+envoy:distroless-v1.33.2
+redis:7.4.2
+infinistore:v0.2.42-20250506
+aibrix-kvcache-watcher:v0.7.0
+busybox:1.37.0
