@@ -1,7 +1,5 @@
-vllm-openai:v0.21.0-aibrix-v0.7.0-nixl0.7.1
-aibrix-gateway-plugins:v0.7.0
-envoy:distroless-v1.33.2
+vllm/vllm-openai:v0.21.0-aibrix-v0.7.0-nixl0.7.1
+aibrix/gateway-plugins:v0.7.0
 redis:7.4.2
 infinistore:v0.2.42-20250506
-aibrix-kvcache-watcher:v0.7.0
-busybox:1.37.0
+aibrix/kvcache-watcher:v0.7.0
