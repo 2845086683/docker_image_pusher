@@ -1,9 +1,1 @@
-docker.io/vllm/vllm-openai:v0.21.0
-docker.io/pytorch/manylinux2_28-builder:cuda12.1
-docker.io/aibrix/gateway-plugins:v0.7.0
-docker.io/envoyproxy/envoy:distroless-v1.33.2
-docker.io/vllm/vllm-openai:v0.21.0
-docker.io/library/redis:7.4.2
-aibrix-cn-beijing.cr.volces.com/aibrix/infinistore:v0.2.42-20250506
-docker.io/aibrix/kvcache-watcher:v0.7.0
-docker.io/library/busybox:1.37.0
+lmcache/lmcache-blend-test:hopper-blackwell
